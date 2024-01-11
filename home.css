@@ -1,0 +1,152 @@
+body,.section3,.section4{
+    margin: auto;
+    
+}
+.thColor{
+    color: gray;
+}
+.mainHome{
+    background-image:url("images/1.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+   
+  
+}
+main .mainHome h1{
+    font-size:50px;
+    margin-top: 20px;
+}
+main .mainHome h1 , main .mainHome h2{
+    text-align: center;
+    position: relative;
+    color: white;  
+   padding-top: 100px;
+   font-family:'Trebuchet MS',  'Lucida Sans';
+
+}
+.texts{
+    background-color:rgb(28, 24, 24);
+    opacity: 0.5;
+    height: 600px;
+   margin: auto;
+}
+.inp1{
+    background-color: #3498db;
+    border-radius: 10px;
+    border-style: none;
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    color: white;
+    margin-top:20px ;
+}
+.section1 {
+    margin: 50px;
+}
+.section2 ,.section4{
+    display: inline-block;
+    width: 50%;
+    float: left;
+
+}
+.section1 img , .section3 img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.section1 .section2 p{
+    color: gray;
+}
+.clear{
+    clear: both;
+ }
+
+ .section3{
+    margin: 20px;
+    padding: 30px;
+    background-color: #3498db;
+    overflow: auto;
+ }
+.section4{
+    background-color: #3498db;
+    
+}
+
+.section3  .section4  h3,.section3  .section4  p{
+    color: white;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.section3 .section4 img{
+    border-color: white;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.section3 .section4 input{
+    background-color: white;
+    border-style:  none;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color:#3498db;
+margin-left: 80px;
+}
+ .big {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    
+}
+.global{
+    text-align: center;
+    margin-top:20px ;
+    padding-top: 20px;
+}
+.global h4{
+    color:gray;
+}
+.big h3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.big p{
+    text-align: center;
+    color:gray;
+
+}
+.big img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.Micons .icons{
+    display: inline-block;
+}
+.Micons , footer{
+    text-align: center;
+    padding: 20px;
+}
+
+.Micons .icons i{
+    border-color: gray;
+    border-style: double;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    size: 40px;
+}
+.img2 , .first{
+    border-color: gray;
+    border-style: double;
+    padding: 3px;
+}
+.second{
+    border-color: gray;
+    border-style: double;
+    padding: 3px;
+}
